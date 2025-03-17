@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis Dashboard
+# Coffee Shop Sales Analysis Dashboard(Excel)
 ![Screenshot 2025-03-17 202955](https://github.com/user-attachments/assets/4a81302c-cd36-479f-85f7-b39012c54ae7)
 
 ## Project Overview
@@ -41,21 +41,3 @@ The dashboard is built using [insert tools/technologies used, e.g., "Power BI/Ta
 2. Coffee products drive the majority of sales, indicating inventory prioritization.
 3. Consistent performance across weekdays suggests stable customer base.
 4. Balanced order size distribution indicates menu pricing strategy effectiveness.
-
-## Future Enhancements
-- Seasonal trend analysis
-- Customer loyalty program impact assessment
-- Promotional campaign effectiveness tracking
-- Operational cost optimization recommendations
-
-## Usage Instructions
-[Include instructions on how to use/interact with the dashboard if applicable]
-
-## Data Sources
-[Briefly describe the data sources/collection methods]
-
-## Contributors
-[Your name/team information]
-
-## License
-[Specify the license if applicable]
